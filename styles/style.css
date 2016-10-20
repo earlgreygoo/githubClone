@@ -1,23 +1,44 @@
 img {
 	height: 233px;
 	width: 233px;
+	border-radius: 3%
 }
 
 input {
 	margin: 20px;
 }
 
+button {
+	width: 100%;
+	font-size: 15px;
+	height: 20px;
+}
+
 .repo {
-	border-bottom: 1 px solid grey;
+	border-bottom: 1px solid grey;
 	display: inline-block;
 	width: 70%;
-	margin: 30px;
+	padding-bottom: 30px;
+	margin: 10px;
 
 }
 
 .reponame {
 	font-size: 22px;
-	color: blue;
+	color: #4078c0;
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+
+
+}
+
+.h1 {
+	color: #666;
+	margin: 1px;
+}
+
+.h2 {
+	color: grey;
 
 }
 
