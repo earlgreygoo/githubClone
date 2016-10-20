@@ -1,0 +1,44 @@
+img {
+	height: 233px;
+	width: 233px;
+}
+
+input {
+	margin: 20px;
+}
+
+.repo {
+	border-bottom: 1 px solid grey;
+	display: inline-block;
+	width: 70%;
+	margin: 30px;
+
+}
+
+.reponame {
+	font-size: 22px;
+	color: blue;
+
+}
+
+
+.profileContainer {
+	width: 30%;
+	height: 100vh;
+	
+	float: left;
+	vertical-align: top;
+}
+
+.repoContainer {
+	width: 60%;
+	height: 100vh;
+	float: left;
+	
+	vertical-align: top;
+}
+
+.repolist {
+	display:inline-block;
+
+}
